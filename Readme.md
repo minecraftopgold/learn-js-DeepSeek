@@ -10,3 +10,4 @@ mach minigames
 --> Belohnungs sticker kaufen mit den Punkten
 
 "# js-GPT" 
+"# js-GPT" 
