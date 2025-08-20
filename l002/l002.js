@@ -15,3 +15,4 @@ let zahl2 = "8";
 
 console.log(zahl1 + zahl2);
 //ergibt 38 weenn zahl1 = 3 und zahl2 = "8"
+
